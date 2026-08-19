@@ -165,20 +165,6 @@ jupyter notebook Risk_Alert_Classifier.ipynb
 
 ---
 
-## 🎥 Video Explanation
-
-📹 **Video Link:** _[Add your Google Drive / YouTube unlisted link here]_
-
-The video walks through:
-- Problem statement and business context
-- Data preparation and imputation strategy
-- Model building and evaluation for each algorithm
-- Impact of imbalance-handling techniques
-- Hyperparameter tuning process
-- Final model justification and business recommendations
-
----
-
 ## 🔮 Future Improvements
 
 - Feature engineering from `last_transaction_date` (e.g., recency-based features)
@@ -191,16 +177,6 @@ The video walks through:
 
 ## 👤 Author
 
-**[Your Name]**
-Data Scientist (Student Project) — Risk Alert Classifier
-📧 _[your email]_ | 🔗 _[LinkedIn/Portfolio link]_
-
----
-
-## 📄 License
-
-This project was developed as part of an academic assignment on supervised learning and classification. Free to use for learning and reference purposes.
-
----
+**[het k]**
 
 ⭐ *If you found this project useful, consider giving it a star!*
